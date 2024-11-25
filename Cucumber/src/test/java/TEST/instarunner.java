@@ -16,5 +16,7 @@ public class instarunner {
   public void TC2(){
 	    System.out.println("this is mathod two");
   }
-
+   public void Tc() {
+	   System.out.println(" git hub  change the message ");
+   }
 }
