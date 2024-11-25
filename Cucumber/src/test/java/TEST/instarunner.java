@@ -9,4 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(features = "C:\\Users\\vicky\\OneDrive\\Desktop\\AUTOMATION_SELENIUM\\Cucumber\\src\\test\\resources\\Features\\Instagram.feature",glue="Stepdef")
 public class instarunner {
 
+  public void TC(){
+    System.out.println("Insta runner class");
+
 }
