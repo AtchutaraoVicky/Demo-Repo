@@ -19,4 +19,7 @@ public class instarunner {
    public void Tc() {
 	   System.out.println(" git hub  change the message ");
    }
+   public void TC4() {
+	   System.out.println(" This is method four ");
+   }
 }
