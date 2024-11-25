@@ -13,3 +13,8 @@ public class instarunner {
     System.out.println("Insta runner class");
 
 }
+  public void TC2(){
+	    System.out.println("this is mathod two");
+  }
+
+}
