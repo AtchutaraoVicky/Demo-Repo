@@ -11,5 +11,6 @@ import io.cucumber.junit.CucumberOptions;
 public class tagrunner {
    public void TC(){
    System.out.println("Tag runner class passed");
+      System.out.println("add to git hub account ");
 }
 }
